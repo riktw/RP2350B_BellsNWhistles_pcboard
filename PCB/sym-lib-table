@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "riklib") (type "KiCad") (uri "/home/rik/Downloads/ElectronicsProjects/Kicad/Library") (options "") (descr ""))
+)
