@@ -10,4 +10,6 @@ It has all the modern and some retro IO like:
 - MicroSD for storage
 - On board RTC
 
+<img src="./photos/photo.jpg "  width="768" height="510">
+
 This board is tested and no bugs should remain in the latest version.
